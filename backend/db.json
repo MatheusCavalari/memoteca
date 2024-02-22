@@ -1,0 +1,28 @@
+{
+  "pensamentos": [
+    {
+      "id": 1,
+      "conteudo": "Meu escritório é na praia e eu tô sempre na área mais eu não sou da sua laia não",
+      "autoria": "Charlie Brow Jr",
+      "modelo": "modelo1"
+    },
+    {
+      "id": 3,
+      "conteudo": "Se eu te falar que a coisa tá preta, a coisa tá boa pode acreditar",
+      "autoria": "Rincon Sapiência",
+      "modelo": "modelo3"
+    },
+    {
+      "conteudo": "Don't stop me now.",
+      "autoria": "Quuen",
+      "modelo": "modelo1",
+      "id": 4
+    },
+    {
+      "conteudo": "Até sem chuteira é só gol do meio de campo",
+      "autoria": "Djonga",
+      "modelo": "modelo2",
+      "id": 5
+    }
+  ]
+}
